@@ -1,1 +1,33 @@
-# snake-with-friends
+CSSI Day 12 - Snake
+=================
+
+Your Project
+------------
+
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← solution_with_tail.js
+
+This solution also includes the snake spawning extra tail sections.
+
+### ← solution_no_tail.js
+
+This is the mvp, a snake that has no tail and collides with apples.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
